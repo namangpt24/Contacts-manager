@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "9d1dc57a-8f6e-423f-a3de-05cc8a6c02b8",
+      "name": "Harvinder Singh",
+      "email": "singh@gmail.com"
+    },
+    {
+      "id": "7d2485c6-6aa9-4cd6-97d9-f7d26863212b",
+      "name": "Lucky",
+      "email": "lucky@gmail.com"
+    }
+  ]
+}
